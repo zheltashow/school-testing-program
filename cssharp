@@ -1,0 +1,19 @@
+school-testing-system/
+├── node_modules/
+├── public/
+├── src/
+│   ├── components/
+│   │   ├── Question.tsx
+│   │   ├── SingleChoiceQuestion.tsx
+│   │   ├── MultipleChoiceQuestion.tsx
+│   │   ├── ShortAnswerQuestion.tsx
+│   │   ├── LongAnswerQuestion.tsx
+│   │   ├── TestStep.tsx
+│   ├── App.tsx
+│   ├── App.css
+│   ├── index.tsx
+│   └── index.css
+├── package.json
+├── tsconfig.json
+├── README.md
+└── yarn.lock
